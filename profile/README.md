@@ -6,3 +6,4 @@ List of archived or outdated projects:
 * [chat](https://github.com/ky0422-archive/chat) on 2022/10/06
 * [gist](https://github.com/ky0422-archive/gist) on 2022/10/06
 * [delete](https://github.com/ky0422-archive/delete) on 2022/10/06
+* [sesan](https://github.com/ky0422-archive/sesan) on 2022/12/09
